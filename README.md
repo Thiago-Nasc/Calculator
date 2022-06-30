@@ -1,7 +1,10 @@
-<h1 style='color:#c3c3c3'>Calculadora</h1>
+<h1 style='font-size: 40px; color:#c3c3c3'>Calculator</h1>
+
+<p style='font-size: 20px; margin: 10px'>The Calculator application allows you to solve arithmetic equations with the basic operators</p>
+<p align='center'>
 <img src="assets/web/calculadora.gif"/ width='700px'>
-<p style='font-size: 20px; margin: 10px'>A aplicação Calculadora permite resolver equações aritméticas com os operadores básicos</p>
-<h2 style='color:#c3c3c3'>As seguintes tecnologias foram utilizadas para a criação do projeto:</h2>
+
+<h2 style='font-size: 25px; color:#c3c3c3'>The following technologies were used to develop the project:</h2>
 <p>- HTML5</p>
 <p>- Bootstrap</p>
 <p>- Javascript</p>
